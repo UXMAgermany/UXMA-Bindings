@@ -1,4 +1,4 @@
-# MaBindings
+# UXMA-Bindings
 
 Eases the development of [MVVM] based software projects running on the [JVM] by providing additional constructs and simplifying wrappers around [RxJava].
 
